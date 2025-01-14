@@ -21,8 +21,10 @@ Self-learned using YouTube tutorials and ChatGPT.
 - **Error Handling** ⚠️: Handles location-related issues like permission denial
 - **Privacy-focused** 🔒: No location data is stored or shared
 
-## 🌐 Live Demo
+## 🌐 Demo
 Click on the button to detect your location and view it on a map!
+
+[**Watch the Demo**](https://github.com/user-attachments/assets/bcd0ec28-6550-4f8f-8729-f58f4115cb50)
 
 > *Note*: For privacy reasons, the location is hidden in the demo.
 
