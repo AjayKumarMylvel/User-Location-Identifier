@@ -24,7 +24,7 @@ Self-learned using YouTube tutorials and ChatGPT.
 ## 🌐 Demo
 Click on the button to detect your location and view it on a map!
 
-[**Watch the Demo**](https://github.com/user-attachments/assets/bcd0ec28-6550-4f8f-8729-f58f4115cb50)
+[**Watch the Demo**](https://github.com/user-attachments/assets/20e216a8-d357-447d-ba0a-4bb71bb9f533)
 
 > *Note*: For privacy reasons, the location is hidden in the demo.
 
